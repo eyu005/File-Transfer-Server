@@ -1,8 +1,3 @@
-//Eunsang Yu
-//05/31/2024
-//CPSC 3500
-//P4
-
 #include <iostream>
 #include <cstdint>
 #include <libgen.h>
